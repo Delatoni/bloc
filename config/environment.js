@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'chrome-ap',
+    modulePrefix: 'bloc',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

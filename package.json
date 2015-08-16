@@ -1,7 +1,7 @@
 {
-  "name": "chrome-ap",
+  "name": "Bloc",
   "version": "0.0.0",
-  "description": "Small description for chrome-ap goes here",
+  "description": "Small description for Bloc goes here",
   "private": true,
   "directories": {
     "doc": "doc",
